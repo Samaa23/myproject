@@ -12,7 +12,6 @@ public class Mavenproject1 {
     public static void main(String[] args) {
         System.out.println("Hllo World!");
         System.out.println("Hllo Woasdasrld!");
-        int z =129;
         System.out.println("Hello World!");
     }
 }
